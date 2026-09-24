@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Section01_LibrarySystem/Section01_LibrarySystem.csproj" />
+  <Project Path="Section02_OrderProcessingSystem/Section02_OrderProcessingSystem.csproj" />
+</Solution>
